@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/clerk-react": "^5.22.2",
     "@clerk/nextjs": "^6.9.14",
+    "convex": "^1.18.2",
     "next": "15.1.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
